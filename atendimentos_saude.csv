@@ -1,0 +1,73 @@
+﻿Mes,Ordem_Mes,Unidade,Tipo_Atendimento,Quantidade
+Janeiro,1,UBS Centro,Consulta Médica,23
+Janeiro,1,UBS Centro,Enfermagem,27
+Janeiro,1,UBS Centro,Odontologia,31
+Janeiro,1,UBS Centro,Nutrição,35
+Janeiro,1,UBS Bairro A,Consulta Médica,28
+Janeiro,1,UBS Bairro A,Enfermagem,32
+Janeiro,1,UBS Bairro A,Odontologia,36
+Janeiro,1,UBS Bairro A,Nutrição,40
+Janeiro,1,UBS Bairro B,Consulta Médica,33
+Janeiro,1,UBS Bairro B,Enfermagem,37
+Janeiro,1,UBS Bairro B,Odontologia,41
+Janeiro,1,UBS Bairro B,Nutrição,45
+Fevereiro,2,UBS Centro,Consulta Médica,26
+Fevereiro,2,UBS Centro,Enfermagem,30
+Fevereiro,2,UBS Centro,Odontologia,34
+Fevereiro,2,UBS Centro,Nutrição,38
+Fevereiro,2,UBS Bairro A,Consulta Médica,31
+Fevereiro,2,UBS Bairro A,Enfermagem,35
+Fevereiro,2,UBS Bairro A,Odontologia,39
+Fevereiro,2,UBS Bairro A,Nutrição,43
+Fevereiro,2,UBS Bairro B,Consulta Médica,36
+Fevereiro,2,UBS Bairro B,Enfermagem,40
+Fevereiro,2,UBS Bairro B,Odontologia,44
+Fevereiro,2,UBS Bairro B,Nutrição,48
+Março,3,UBS Centro,Consulta Médica,29
+Março,3,UBS Centro,Enfermagem,33
+Março,3,UBS Centro,Odontologia,37
+Março,3,UBS Centro,Nutrição,41
+Março,3,UBS Bairro A,Consulta Médica,34
+Março,3,UBS Bairro A,Enfermagem,38
+Março,3,UBS Bairro A,Odontologia,42
+Março,3,UBS Bairro A,Nutrição,46
+Março,3,UBS Bairro B,Consulta Médica,39
+Março,3,UBS Bairro B,Enfermagem,43
+Março,3,UBS Bairro B,Odontologia,47
+Março,3,UBS Bairro B,Nutrição,51
+Abril,4,UBS Centro,Consulta Médica,32
+Abril,4,UBS Centro,Enfermagem,36
+Abril,4,UBS Centro,Odontologia,40
+Abril,4,UBS Centro,Nutrição,44
+Abril,4,UBS Bairro A,Consulta Médica,37
+Abril,4,UBS Bairro A,Enfermagem,41
+Abril,4,UBS Bairro A,Odontologia,45
+Abril,4,UBS Bairro A,Nutrição,49
+Abril,4,UBS Bairro B,Consulta Médica,42
+Abril,4,UBS Bairro B,Enfermagem,46
+Abril,4,UBS Bairro B,Odontologia,50
+Abril,4,UBS Bairro B,Nutrição,54
+Maio,5,UBS Centro,Consulta Médica,35
+Maio,5,UBS Centro,Enfermagem,39
+Maio,5,UBS Centro,Odontologia,43
+Maio,5,UBS Centro,Nutrição,47
+Maio,5,UBS Bairro A,Consulta Médica,40
+Maio,5,UBS Bairro A,Enfermagem,44
+Maio,5,UBS Bairro A,Odontologia,48
+Maio,5,UBS Bairro A,Nutrição,52
+Maio,5,UBS Bairro B,Consulta Médica,45
+Maio,5,UBS Bairro B,Enfermagem,49
+Maio,5,UBS Bairro B,Odontologia,53
+Maio,5,UBS Bairro B,Nutrição,57
+Junho,6,UBS Centro,Consulta Médica,38
+Junho,6,UBS Centro,Enfermagem,42
+Junho,6,UBS Centro,Odontologia,46
+Junho,6,UBS Centro,Nutrição,50
+Junho,6,UBS Bairro A,Consulta Médica,43
+Junho,6,UBS Bairro A,Enfermagem,47
+Junho,6,UBS Bairro A,Odontologia,51
+Junho,6,UBS Bairro A,Nutrição,55
+Junho,6,UBS Bairro B,Consulta Médica,48
+Junho,6,UBS Bairro B,Enfermagem,52
+Junho,6,UBS Bairro B,Odontologia,56
+Junho,6,UBS Bairro B,Nutrição,60
